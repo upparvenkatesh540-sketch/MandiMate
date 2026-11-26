@@ -1,0 +1,17 @@
+# secrets
+.env
+.env.local
+*.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+.next/
+
+# editor and OS
+.vscode/
+.DS_Store
